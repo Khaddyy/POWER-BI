@@ -20,16 +20,18 @@ Data Cleaning
 Data was cleaned and transformed with the Power Query Editor of Power BI. Some applied steps include:
 1.	Made first rows as headers.
 2.	Created new column for ProductKey.
+![image](https://github.com/Khaddyy/POWER-BI/assets/117234410/2123eeb5-0b0a-4ca3-84a8-45fa4f48c50c)
+
 
 Data Modelling
 Power BI automatically connected related tables in a star schema model.
+![image](https://github.com/Khaddyy/POWER-BI/assets/117234410/724b3367-3023-4d57-913f-ae3a8b5410b9)
+
 
 Data Analytics and Visuals
+![image](https://github.com/Khaddyy/POWER-BI/assets/117234410/f5aa7e64-d690-4c3f-854a-8120e49fb7fe)
 
-
-DASHBOARD![Screenshot (8)](https://user-images.githubusercontent.com/117234410/232605355-4e5fc8d5-a381-4298-86fc-ec6974e091f9.png)
 
 1.	From the dashboard it is observed that sales exceeded budget, thus a profit.
 2.	Sales of road bikes spiked and exceeded its budget.
 3.	Road bikes are more popular amongst customers and territories.
-4.	Quarterly variables for year 2016 are equal.
