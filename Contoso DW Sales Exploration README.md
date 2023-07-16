@@ -1,6 +1,6 @@
 # POWER-BI
 	INTRODUCTION    
-I obtained this dataset via DataCamp for one of itsexercises on Power BI. It didn't require much cleaning and visualization was almost seamless.
+I obtained this dataset via DataCamp for one of itsexercises on Power BI. It didn't require much cleaning.
 
 Power BI Concepts
 1.	Data Modelling
@@ -27,4 +27,3 @@ Data Analysis and Visuals
 2.	Contoso Noth America has the least amount(by entity name).
 3.	Home appliaces has the most sold product according to budget.
 4.	In year 2018, home appliances was the most sold product by product category.
-5.	Also in year 2018, Contoso Catalog and Contoso North America stores had equal sales amount.
