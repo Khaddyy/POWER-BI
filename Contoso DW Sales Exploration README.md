@@ -1,6 +1,6 @@
 # POWER-BI
 	INTRODUCTION    
-I obtained this dataset via DataCamp for one of itsexercises on Power BI. It didn't require much cleaning.
+I obtained this dataset via DataCamp for one of itsexercises on Power BI. And this dataset required cleaning.
 
 Power BI Concepts
 1.	Data Modelling
